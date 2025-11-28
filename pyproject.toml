@@ -28,7 +28,7 @@ Documentation = "https://github.com/comrender/ComfyUI-edge-match-checker/wiki"
 "Bug Tracker" = "https://github.com/comrender/ComfyUI-edge-match-checker/issues"
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "comrender"
 DisplayName = "ComfyUI-edge-match-checker"
 Icon = ""
 includes = [] 
